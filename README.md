@@ -39,5 +39,5 @@ Always learning, always improving.
 
 ## 📫 Let’s Connect
 - 📧 Email: mohmmedyaser94@gmail.com
--  💼 LinkedIn: [My LinkedIn profile](linkedin.com/in/mohamed-yaser-39aaba344)
+-  💼 LinkedIn: [linkedin.com/in/mohamed-yaser-39aaba344]
 - 🌍 Location: Egypt
