@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**mohamed616100/mohamed616100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hey, I’m Mohamed
 
-Here are some ideas to get you started:
+Flutter Developer based in Egypt 🇪🇬  
+I build clean, scalable mobile applications with a strong focus on UI/UX and performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming ideas into real products that people can use and love.  
+Always learning, always improving.
+
+---
+
+## 💡 What Drives Me
+- ✨ Building clean and modern mobile apps
+- 🧠 Writing maintainable and scalable code
+- 🎯 Solving real-world problems with Flutter
+- 🚀 Continuous learning and growth
+
+---
+
+## 🛠️ Tech Stack
+- Flutter & Dart
+- Bloc (State Management)
+- REST APIs
+- Firebase
+- SharedPreferences
+- Google Maps
+- Git & GitHub
+
+---
+
+## 📱 Featured Projects
+- **Stylish** – Flutter E-Commerce App  
+- **Todo App** – Task Management App  
+- **Weather App** – Real-time weather forecast  
+- **YUMQUICK** – Food ordering application
+
+---
+
+## 📫 Let’s Connect
+- 📧 Email: mohmmedyaser94@gmail.com
+-  💼 LinkedIn: [My LinkedIn profile](linkedin.com/in/mohamed-yaser-39aaba344)
+- 🌍 Location: Egypt
