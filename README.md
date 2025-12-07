@@ -37,7 +37,8 @@ Always learning, always improving.
 
 ---
 
-## 📫 Let’s Connect
-- 📧 Email: mohmmedyaser94@gmail.com
-- 💼 LinkedIn: [My LinkedIn profile](linkedin.com/in/mohamed-yaser-39aaba344/)
+
+## 🌐 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Yaser-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-yaser-39aaba344)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mohmmedyaser94@gmail.com)
 - 🌍 Location: Egypt
